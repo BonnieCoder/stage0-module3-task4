@@ -5,7 +5,7 @@ public class IntRepresentation {
         char c, h, a, r;
         c = 99;
         h = 104;
-        a = 65;
+        a = 97;
         r = 114;
         System.out.println(c);
         System.out.println(h);
